@@ -1,0 +1,8 @@
+1) Crie uma classe com um método que recebe um parâmetro e testa se o email está no formato email@gmail.com
+
+2) Crie uma classe que possuim um método que testa se a quantidade de arquivos de uma determinada pasta do sistema é par.
+
+3) Crie uma classe que possui um método que testa se o sistema é de 32 ou 64 bits, caso seja de 64 imprima na tela a mensagem "sistema ok", caso contrário de um skip no método
+
+4) Crie uma classe que possui um método que recebe uma lista de idades. Teste se cada elemento dessa lista é maior que 18.
+Caso seja falso imprima uma mensagem "Pessoa deve ser maior de 18 anos".
